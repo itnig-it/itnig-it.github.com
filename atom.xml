@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Itnig engineering blog]]></title>
+  <link href="http://itnig-it.github.com/atom.xml" rel="self"/>
+  <link href="http://itnig-it.github.com/"/>
+  <updated>2012-07-23T17:19:16+02:00</updated>
+  <id>http://itnig-it.github.com/</id>
+  <author>
+    <name><![CDATA[Itnig]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://itnig-it.github.com/blog/2012/07/23/hello-world/"/>
+    <updated>2012-07-23T17:14:00+02:00</updated>
+    <id>http://itnig-it.github.com/blog/2012/07/23/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello there, I&#8217;m the first post from octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>
